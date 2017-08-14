@@ -1,3 +1,5 @@
+package com.krzysztof.sroczyk.wordchain;
+
 import org.junit.Test;
 
 import java.util.Arrays;

@@ -1,3 +1,5 @@
+package com.krzysztof.sroczyk.wordchain;
+
 import java.util.List;
 import java.util.Scanner;
 
